@@ -64,7 +64,7 @@
 # En el siguiente objeto muestro cuales son las rutas de mi servicio de API´S que realice desde un servidor que tengo montado en mi casa.
 [
  {
-    path: 'cder.zapto.org/api/examenBap/newTask',
+    path: 'cder.zapto.org:3000/api/examenBap/newTask',
     methods: [ 'POST' ],
     middlewares: [ 'jsonParser', 'anonymous' ],
     body:
@@ -78,7 +78,7 @@
     }
   },
   {
-    path: 'cder.zapto.org/api/examenBap/allTask',
+    path: 'cder.zapto.org:3000/api/examenBap/allTask',
     methods: [ 'GET' ],
     middlewares: [ 'jsonParser', 'anonymous' ],
     body:
@@ -88,7 +88,7 @@
     }
   },
   {
-    path: 'cder.zapto.org/api/examenBap/task/tarea1',
+    path: 'cder.zapto.org:3000/api/examenBap/task/tarea1',
     methods: [ 'GET' ],
     middlewares: [ 'jsonParser', 'anonymous' ],
     body:
@@ -98,7 +98,7 @@
     }
   },
   {
-    path: 'cder.zapto.org/api/examenBap/editTask',
+    path: 'cder.zapto.org:3000/api/examenBap/editTask',
     methods: [ 'PUT' ],
     middlewares: [ 'jsonParser', 'anonymous' ],
     body:
@@ -110,7 +110,7 @@
     }
   },
   {
-    path: 'cder.zapto.org/api/examenBap/deleteTask/Este es el cambio',
+    path: 'cder.zapto.org:3000/api/examenBap/deleteTask/Este es el cambio',
     methods: [ 'DELETE' ],
     middlewares: [ 'anonymous' ],
     body:
