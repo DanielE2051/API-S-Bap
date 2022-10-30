@@ -1,6 +1,7 @@
 # API-S-Bap
 
 # En el siguiente objeto muestro cuales son las rutas de mi servicio de API´S que realice localmente.
+#NOTA: Para utilizar este servicio se tiene primero que construir la base de datos. a partir de unas clases que realice que estan en el archivo que se encuentra en la carpeta mysql.
 
 [
  {
