@@ -1,6 +1,6 @@
 # API-S-Bap
 
-# En el siguiente objeto muestro como esta contrido las API´S que realice.
+# En el siguiente objeto muestro cuales son las rutas de mi servicio de API´S que realice localmente.
 
 [
  {
@@ -60,7 +60,7 @@
     }
   }
 ]
-# En el anterior ruteo podemos utilizarlo para consultar toda las api's instalando los scripts localmente.
+# En el siguiente objeto muestro cuales son las rutas de mi servicio de API´S que realice desde un servidor que tengo montado en mi casa.
 [
  {
     path: 'cder.zapto.org/api/examenBap/newTask',
@@ -119,5 +119,3 @@
     }
   }
 ]
-
-# En el anterior ruteo podemos utilizarlo para consultar toda las api's desde donde sea el servicio lo tengo en un servidor que tengo desde mi casa.
